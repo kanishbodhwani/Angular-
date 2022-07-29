@@ -4,6 +4,11 @@
       - Reusable code
       - Easy deployment
       
+Angular app - One or more modules
+Modules - Components and Services
+Components - HTML and Class
+Services - Business Logic 
+
 
 
 # Components 
