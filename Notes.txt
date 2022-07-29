@@ -1,0 +1,10 @@
+# Angular 
+      - Component based
+      - Modular Approach 
+      - Reusable code
+      - Easy deployment
+      
+
+
+# Components 
+  You can make code reusable by breaking code into more and more components.
